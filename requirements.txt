@@ -1,0 +1,13 @@
+# Universe Database - Python Dependencies
+# Phase 3: Database Implementation
+
+# No external dependencies required!
+# All scripts use Python standard library only:
+# - sqlite3 (built-in)
+# - sys, os, datetime, pathlib (built-in)
+# - typing, contextlib (built-in)
+
+# Minimum Python version: 3.7+
+
+# Optional: For enhanced CLI experience
+# pip install rich  # For pretty terminal output (optional)
