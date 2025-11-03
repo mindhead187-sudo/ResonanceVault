@@ -1,0 +1,31 @@
+id,name,codename,faction,role,status,notes,military_rank,designation,command_priority
+cmm-kyra,Kyra Constantine,Matriarch,CMM,Sovereign / Matriarch Protocol,active,Only klevel/05 holder; root access to Erebus Prime.,Supreme Sovereign Commander,CMM-00 / Imperatrix Erebus,0
+cmm-aegis,Aegis Hermione Blossom,Black Venom,CMM,Executor / Field Commander,active,Shenzhen engagement; Sigil fragment recovery.,Field Marshal of the Flame Legions,CMM-01 / High Flame Aegis,1
+cmm-steele,Steele Roth,Steel Choir,CMM,Executor / Drone War-Lead,active,Tel Aviv drone conflict vs Kazuo.,Grand Strategist of Iron Doctrine,CMM-02 / Steel Choir,2
+cmm-krayne,Krayne Solari,Sunscar,CMM,Executor / Counter-PR Ops,active,Media disruption vs Akira.,Director of Psychological Siege,CMM-03 / Sunscar,3
+cmm-selene,Selene Voss,Night Censer,CMM,Executor / Biomed Disruption,active,Boston engagement vs Ayana.,Warden of Biotechnic Warfronts,CMM-04 / Night Censer,4
+cmm-mara,Mara Nakai,Ash Seraph,CMM,Executor / Special Actions,provisional,Temporary elevation; verify canon.,Commandant of Special Actions Division,CMM-05 / Ash Seraph (Provisional),5
+cmm-voss,Voss Tarran,Forger of Frames,CMM,Architect / Meta-Engineer,exposed,Frame job on twins; later exposed.,,,
+cmm-liam,Liam Chen,Cold Ledger,CMM,Architect / CFO Facade,active,Financial obfuscation for CMM fronts.,,,
+cmm-priya,Priya Sharma,Forgewright,CMM,Architect / CTO,active,Sigil fabrication pipelines.,,,
+cmm-ryo,Ryo Tanaka,Red Letter,CMM,Architect / General Counsel,active,Legalized coercion frameworks.,,,
+cmm-sofia,Sofia Alvarez,Glass Choir,CMM,Architect / CHRO,active,Conditioning script HR cover.,,,
+cmm-elias,Elias Moreau,Furnace Aegis,CMM,Architect / CMO,active,Propaganda and narrative burn-in.,,,
+cmm-darius,Darius Vale,Signal Warden,CMM,Analyst / Telemetry Lead,active,Emotion-telemetry modeling.,,,
+cmm-kaori,Kaori Mizuno,Fathomline,CMM,Analyst / Strategic Forecasting,active,Runs Fire-Arc forecasts.,,,
+cmm-rhea,Rhea Takeda,Crimson Quill,CMM,Analyst / Conditioning Matrix,active,Maintains imprint scripts.,,,
+cmm-hana,Hana Mizuki,Torchline,CMM,Analyst / Ops-Liaison,active,COO cover; ensures throughput.,,,
+cmm-s21,Unit S-21,Ash Dogs,CMM,Operator Cell,active,Urban breach specialists.,,,
+cmm-s39,Unit S-39,Molten Halo,CMM,Operator Cell,active,High-heat demolitions.,,,
+cmm-s07,Unit S-07,Cinder Veil,CMM,Operator Cell,active,Recon & misdirection.,,,
+cmm-s11,Unit S-11,Basalt Choir,CMM,Operator Cell,active,Psych-ops loudhailers.,,,
+cmm-s17,Unit S-17,Red Circuit,CMM,Operator Cell,active,Drone reconnaissance.,,,
+cmm-s23,Unit S-23,Glass Vipers,CMM,Operator Cell,active,Rapid infiltration.,,,
+cmm-s27,Unit S-27,Slag Hounds,CMM,Operator Cell,active,Heavy breach team.,,,
+cmm-s31,Unit S-31,Ash Lanterns,CMM,Operator Cell,active,Night operations.,,,
+cmm-s33,Unit S-33,Lava Sirens,CMM,Operator Cell,active,Decoy siren squads.,,,
+cmm-s41,Unit S-41,Ember Chorus,CMM,Operator Cell,active,Siege support.,,,
+cmm-s44,Unit S-44,Coal Seraphs,CMM,Operator Cell,active,Cliffside assault.,,,
+cmm-s52,Unit S-52,Crematoria,CMM,Operator Cell,active,Area denial fires.,,,
+cmm-s58,Unit S-58,Infernic Order,CMM,Operator Cell,active,Counter-sigil squads.,,,
+cmm-s63,Unit S-63,Tinder Saints,CMM,Operator Cell,active,Rapid response / ridge runners.,,,

@@ -1,0 +1,55 @@
+{
+  "generated_utc": "2025-11-03T01:37:02Z",
+  "entities": {
+    "sigils": [
+      "meigetsu",
+      "kurotaka",
+      "kou",
+      "reifu",
+      "sousen",
+      "hyoka"
+    ],
+    "divisions": [],
+    "identities": []
+  },
+  "links": {
+    "sigil_to_bearer": {
+      "meigetsu": "akira_miyara",
+      "kurotaka": "kage_ishigawa",
+      "kou": "ayana_miyara",
+      "reifu": "kazuo_hoshinaga",
+      "sousen": "kenji_hoshinaga",
+      "hyoka": "reika_hyoka_frost"
+    },
+    "bearer_to_sigil": {
+      "akira_miyara": [
+        "meigetsu"
+      ],
+      "kage_ishigawa": [
+        "kurotaka"
+      ],
+      "ayana_miyara": [
+        "kou"
+      ],
+      "kazuo_hoshinaga": [
+        "reifu"
+      ],
+      "kenji_hoshinaga": [
+        "sousen"
+      ],
+      "reika_hyoka_frost": [
+        "hyoka"
+      ]
+    },
+    "division_to_lead": {},
+    "identity_to_division": {},
+    "identity_to_rrl_code": {}
+  },
+  "hints": {
+    "join_examples": {
+      "sigil_bearers": "JOIN sigils s ON s.bearer_id = identities.id",
+      "division_leads": "JOIN divisions d ON d.lead_id = identities.id",
+      "identities_divisions": "JOIN identities i ON i.division_id = divisions.id"
+    }
+  }
+}
